@@ -1,4 +1,5 @@
-def str_func(str):
+def str_upper(str):
+    '''Возвращаем слово капсом'''
     return str.upper()
 
 
