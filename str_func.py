@@ -1,5 +1,5 @@
 def str_upper(str):
-    '''Другой докстринг'''
+    '''Дрoljknpoknpn'''
     return str.upper()
 
 
